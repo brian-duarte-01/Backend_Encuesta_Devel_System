@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Backend_Encuesta_devel_System.props" />
+</Project>
